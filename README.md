@@ -1,17 +1,25 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
+        <title>História dos power rangers</title>
+        <meta charset="UTF-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="db19f641c0f9bf0370a251ee811e567f.jpg" type="image/x-icon">
     </head>
     <body style="background-color: aquamarine;">
-        <h1 style="font-family: cursive;">Power Rangers Mighty Morphin</h1>
-        <img src="MMPR.png" style="width: 300px; height: auto;">
-        <p>Mighty Morphin Power Rangers (bra/prt: Power Rangers[1]) é uma série de televisão infanto-juvenil de super-heróis norte-americana do gênero Super Sentai, que estreou em 28 de agosto de 1993, no bloco semanal Fox Kids.[2] A série é sobre um grupo de adolescentes que foram escolhidos para proteger o mundo de um grupo de invasores alienígenas; e lhes foram dadas a capacidade de se "transformar" em super-poderosos guerreiros; e de usar robôs gigantes chamados "zords". Ela foi adaptada e utilizada a partir da série de televisão japonesa Zyuranger, que foi a 16ª série Super Sentai da Toei Company.[3] Tanto a série quanto a linha de produtos tornaram-se um grande êxito da noite para o dia, tornando-se um hit da década de 1990 e parte da cultura pop em poucos meses.[4][5][6] A série original durou três anos, entre 1993 e 1995, gerando consequentemente o filme Mighty Morphin Power Rangers: The Movie.[7]</p>
-        <p>A segunda e terceira temporadas da série foram baseadas em imagens e elementos das séries Super Sentais Gosei Sentai Dairanger e Ninja Sentai Kakuranger, respectivamente, embora os costumes de Zyuranger ainda fossem usados ​​para o elenco principal. O robô e o traje do Kiba Ranger (usado pelo Ranger Branco) e o robô formado pelos cinco "zords" foram retidos de Dairanger para a segunda temporada, enquanto apenas o robô de Kakuranger formado pelos cinco "zords" (fora o Shogunzords) foi destaque na terceira temporada. No entanto, os trajes de Kakuranger foram posteriormente utilizados para os personagens-título da minissérie Mighty Morphin Alien Rangers. A série foi produzida pela Power Rangers Productions; distribuída pela Saban Entertainment; e foi ao ar na Fox Kids. A mercadoria do show foi produzida e distribuída pela Bandai Entertainment, chegando a vender $6 bilhões.[8]</p>
-        <p>Em 1996, a série foi estabelecida como o princípio da franquia Power Rangers, com cada nova temporada tendo um novo nome, começando com a minissérie Mighty Morphin Alien Rangers depois da temporada completa Power Rangers Zeo; e usando figurinos, adereços e imagens da subsequente série Super Sentai, bem como alterando a linha de elenco e história. A série teve a participação de Dex, que pode se transformar no Masked Rider, primeiro Kamen Rider adaptado para a versão americana do Kamen Rider Black RX. Sua primeira aparição foi antes dos rangers perderem seus poderes e conhecerem o Ninjor.</p>
-        <p>Enquanto uma linha de história global continuaria em Power Rangers: Zeo, Power Rangers: Turbo, Power Rangers in Space e Power Rangers: Lost Galaxy (que funcionariam respectivamente como quarta, quinta, sexta e sétima temporadas), as séries subsequentes não seriam continuações ou spin-offs no sentido tradicional. As exceções seriam Power Rangers Dino Thunder, que poderia ser considerado como uma continuação da série clássica original por ter a presença do personagem Tommy Oliver (o Ranger verde) como parte da equipe regular de Rangers da geração daquela série (em algumas das outras séries o personagem só fez participação especiais). Power Rangers: SPD também seria outra exceção, pois na trama desta série, o Ranger verde desta geração, J.J Oliver, é filho de Tommy, o Ranger verde original. Outra série conectada à série clássica original seria Power Rangers: Hyper Force, pois o vilão principal desta série, Thrax, é filho de Rita Repulsa e Lorde Zedd, vilões principais da série clássica.</p>
-        <p>Em 2010, foi transmitida a reestreia de Mighty Morphin Power Rangers, com um novo logotipo, quadrinhos gráficos e imagem digitalizada com efeitos especiais alternativos extras. Foi transmitida pela ABC Kids. A Bandai produziu novos brinquedos para coincidir com a série.</p>
-        <p>Um filme inspirado na série pelo estúdio Lionsgate foi lançado em 2017.[2] Em 2023, celebrando o trigésimo aniversário da franquia, saiu no Netflix o filme Mighty Morphin Power Rangers: Once and Always, uma continuação trazendo de volta seis dos Rangers originais.</p>
+        <ul> 
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index2.html">mighty morphin</a></li>
+            <li><a href="index3.html">Zeo</a></li>
+            <li><a href="index4.html">Turbo</a></li>
+        </ul>
+        <h1 style="font-family: cursive;">História dos Power Ranger</h1>
+        <hr> 
+        <p>Power Rangers é uma franquia americana de entretenimento construída em torno de uma série de televisão em live-action de super-heróis baseada na franquia japonesa Super Sentai.</p>
+        <p>A franquia, que tem como seus produtos, filmes, histórias em quadrinhos, jogos eletrônicos e brinquedos pertencentes a Hasbro, começou em Mighty Morphin Power Rangers (1993–96), atualmente se encontrando na trigésima temporada, Power Rangers: Cosmic Fury (2023).</p>
+        <p>Como um dos primeiros grupos live-action de super-heróis multiétnicos com ambos os gêneros na equipe principal. A franquia conta com, a cada temporada, uma equipe diferente de heróis para proteger o planeta, adaptando elementos da franquia japonesa da Toei Company, da qual Power Rangers usa os uniformes, monstros, robôs e algumas vezes elementos das histórias.</p>
+        <p>Nas adaptações para cinema, foram lançados: Power Rangers: O Filme (1995) e Turbo: Power Rangers 2 (1997), ambos pela 20th Century Fox.[3][4] Power Rangers (2017), uma versão moderna dos heróis originais da série que tinha arco para seis filmes, foi lançado pela Lionsgate.</p>
+        <p>Criado por Haim Saban com a co-criação de Shuki Levy foram lançados em 1993, com Mighty Morphin Power Rangers, na Fox Kids por Margaret Loesch. Curiosamente, anos antes pela Marvel Productions, Loesch e Stan Lee detinham os direitos de adaptação de Toei.[9] Produzida e distribuída pela Saban Entertainment, em 2001, transmitindo a temporada Power Rangers Time Force, a franquia foi comprada pela Walt Disney Company na aquisição do pacote Fox Family Worldwide, valor de US$ 3 bilhões em dinheiro mais a absorção de uma dívida de US$ 2,3 bilhões.</p>
+        <p>Com o término de Power Rangers R.P.M., fãs da franquia desapontados por não uma nova produção em 2009, levantaram discussões em blogs, o que levou a várias petições.[11] Com isso, foi remixado a temporada Mighty Morphin Power Rangers em 2010, reduzido em 32 episódios remasterizados.</p>
     </body>
 </html>
