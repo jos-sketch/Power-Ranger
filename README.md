@@ -8,10 +8,10 @@
     </head>
     <body style="background-color: aquamarine;">
         <ul> 
-            <li><a href="index.html">Home</a></li>
-            <li><a href="index2.html">mighty morphin</a></li>
-            <li><a href="index3.html">Zeo</a></li>
-            <li><a href="index4.html">Turbo</a></li>
+            <li><a href="file:///C:/Users/jjorg/OneDrive/Documentos/index.html/index.html">Home</a></li>
+            <li><a href="file:///C:/Users/jjorg/OneDrive/Documentos/index.html/index2.html">mighty morphin</a></li>
+            <li><a href="file:///C:/Users/jjorg/OneDrive/Documentos/index.html/index3.html">Zeo</a></li>
+            <li><a href="file:///C:/Users/jjorg/OneDrive/Documentos/index.html/index4.html">Turbo</a></li>
         </ul>
         <h1 style="font-family: cursive;">História dos Power Ranger</h1>
         <hr> 
